@@ -1,0 +1,6769 @@
+{
+  "name": "Blindness",
+  "children": [
+    {
+      "name": "Chapter 1",
+      "value": 5751,
+      "children": [
+        {
+          "name": "sadness",
+          "value": 24,
+          "children": [
+            {
+              "name": "blind",
+              "value": 4
+            },
+            {
+              "name": "eyes",
+              "value": 3
+            },
+            {
+              "name": "finger",
+              "value": 3
+            },
+            {
+              "name": "see",
+              "value": 2
+            },
+            {
+              "name": "man",
+              "value": 2
+            },
+            {
+              "name": "round",
+              "value": 2
+            },
+            {
+              "name": "tears",
+              "value": 2
+            },
+            {
+              "name": "flowers",
+              "value": 2
+            },
+            {
+              "name": "handkerchief",
+              "value": 2
+            },
+            {
+              "name": "injured",
+              "value": 2
+            },
+            {
+              "name": "true",
+              "value": 2
+            },
+            {
+              "name": "onto",
+              "value": 2
+            },
+            {
+              "name": "wide",
+              "value": 1
+            },
+            {
+              "name": "open",
+              "value": 1
+            },
+            {
+              "name": "wrinkled",
+              "value": 1
+            },
+            {
+              "name": "skin",
+              "value": 1
+            },
+            {
+              "name": "face",
+              "value": 1
+            },
+            {
+              "name": "eyebrows",
+              "value": 1
+            },
+            {
+              "name": "suddenly",
+              "value": 1
+            },
+            {
+              "name": "screwed",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "gratitude",
+          "value": 17,
+          "children": [
+            {
+              "name": "said",
+              "value": 3
+            },
+            {
+              "name": "thank",
+              "value": 3
+            },
+            {
+              "name": "would",
+              "value": 3
+            },
+            {
+              "name": "thanks",
+              "value": 2
+            },
+            {
+              "name": "need",
+              "value": 2
+            },
+            {
+              "name": "elevator",
+              "value": 2
+            },
+            {
+              "name": "grateful",
+              "value": 2
+            },
+            {
+              "name": "came",
+              "value": 2
+            },
+            {
+              "name": "help",
+              "value": 2
+            },
+            {
+              "name": "side",
+              "value": 1
+            },
+            {
+              "name": "building",
+              "value": 1
+            },
+            {
+              "name": "blind",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "many",
+              "value": 1
+            },
+            {
+              "name": "sorry",
+              "value": 1
+            },
+            {
+              "name": "trouble",
+              "value": 1
+            },
+            {
+              "name": "caused",
+              "value": 1
+            },
+            {
+              "name": "manage",
+              "value": 1
+            },
+            {
+              "name": "apologise",
+              "value": 1
+            },
+            {
+              "name": "come",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 10,
+          "children": [
+            {
+              "name": "car",
+              "value": 2
+            },
+            {
+              "name": "realised",
+              "value": 2
+            },
+            {
+              "name": "engine",
+              "value": 2
+            },
+            {
+              "name": "5",
+              "value": 1
+            },
+            {
+              "name": "jos\u00e9",
+              "value": 1
+            },
+            {
+              "name": "saramago",
+              "value": 1
+            },
+            {
+              "name": "knew",
+              "value": 1
+            },
+            {
+              "name": "home",
+              "value": 1
+            },
+            {
+              "name": "recognised",
+              "value": 1
+            },
+            {
+              "name": "smell",
+              "value": 1
+            },
+            {
+              "name": "mosphere",
+              "value": 1
+            },
+            {
+              "name": "silence",
+              "value": 1
+            },
+            {
+              "name": "could",
+              "value": 1
+            },
+            {
+              "name": "make",
+              "value": 1
+            },
+            {
+              "name": "items",
+              "value": 1
+            },
+            {
+              "name": "furniture",
+              "value": 1
+            },
+            {
+              "name": "objects",
+              "value": 1
+            },
+            {
+              "name": "simply",
+              "value": 1
+            },
+            {
+              "name": "touching",
+              "value": 1
+            },
+            {
+              "name": "lightly",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "confusion",
+          "value": 7,
+          "children": [
+            {
+              "name": "doctor",
+              "value": 4
+            },
+            {
+              "name": "light",
+              "value": 3
+            },
+            {
+              "name": "like",
+              "value": 2
+            },
+            {
+              "name": "going",
+              "value": 2
+            },
+            {
+              "name": "puzzled",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "standstill",
+              "value": 1
+            },
+            {
+              "name": "moving",
+              "value": 1
+            },
+            {
+              "name": "asked",
+              "value": 1
+            },
+            {
+              "name": "red",
+              "value": 1
+            },
+            {
+              "name": "replied",
+              "value": 1
+            },
+            {
+              "name": "say",
+              "value": 1
+            },
+            {
+              "name": "came",
+              "value": 1
+            },
+            {
+              "name": "sudden",
+              "value": 1
+            },
+            {
+              "name": "yes",
+              "value": 1
+            },
+            {
+              "name": "last",
+              "value": 1
+            },
+            {
+              "name": "days",
+              "value": 1
+            },
+            {
+              "name": "felt",
+              "value": 1
+            },
+            {
+              "name": "difference",
+              "value": 1
+            },
+            {
+              "name": "eyesight",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "fear",
+          "value": 7,
+          "children": [
+            {
+              "name": "blind",
+              "value": 3
+            },
+            {
+              "name": "thought",
+              "value": 2
+            },
+            {
+              "name": "know",
+              "value": 2
+            },
+            {
+              "name": "joke",
+              "value": 2
+            },
+            {
+              "name": "light",
+              "value": 2
+            },
+            {
+              "name": "faltering",
+              "value": 1
+            },
+            {
+              "name": "lack",
+              "value": 1
+            },
+            {
+              "name": "sight",
+              "value": 1
+            },
+            {
+              "name": "weakened",
+              "value": 1
+            },
+            {
+              "name": "memory",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "gave",
+              "value": 1
+            },
+            {
+              "name": "address",
+              "value": 1
+            },
+            {
+              "name": "said",
+              "value": 1
+            },
+            {
+              "name": "words",
+              "value": 1
+            },
+            {
+              "name": "thank",
+              "value": 1
+            },
+            {
+              "name": "replied",
+              "value": 1
+            },
+            {
+              "name": "give",
+              "value": 1
+            },
+            {
+              "name": "another",
+              "value": 1
+            },
+            {
+              "name": "today",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 2",
+      "value": 3442,
+      "children": [
+        {
+          "name": "confusion",
+          "value": 30,
+          "children": [
+            {
+              "name": "add",
+              "value": 1
+            },
+            {
+              "name": "general",
+              "value": 1
+            },
+            {
+              "name": "observation",
+              "value": 1
+            },
+            {
+              "name": "particular",
+              "value": 1
+            },
+            {
+              "name": "circumstance",
+              "value": 1
+            },
+            {
+              "name": "simple",
+              "value": 1
+            },
+            {
+              "name": "spirits",
+              "value": 1
+            },
+            {
+              "name": "remorse",
+              "value": 1
+            },
+            {
+              "name": "caused",
+              "value": 1
+            },
+            {
+              "name": "committing",
+              "value": 1
+            },
+            {
+              "name": "evil",
+              "value": 1
+            },
+            {
+              "name": "act",
+              "value": 1
+            },
+            {
+              "name": "often",
+              "value": 1
+            },
+            {
+              "name": "becomes",
+              "value": 1
+            },
+            {
+              "name": "confused",
+              "value": 1
+            },
+            {
+              "name": "ancestral",
+              "value": 1
+            },
+            {
+              "name": "fears",
+              "value": 1
+            },
+            {
+              "name": "every",
+              "value": 1
+            },
+            {
+              "name": "kind",
+              "value": 1
+            },
+            {
+              "name": "result",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "fear",
+          "value": 30,
+          "children": [
+            {
+              "name": "suddenly",
+              "value": 3
+            },
+            {
+              "name": "already",
+              "value": 3
+            },
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "head",
+              "value": 2
+            },
+            {
+              "name": "bed",
+              "value": 2
+            },
+            {
+              "name": "doubt",
+              "value": 1
+            },
+            {
+              "name": "never",
+              "value": 1
+            },
+            {
+              "name": "feel",
+              "value": 1
+            },
+            {
+              "name": "tranquil",
+              "value": 1
+            },
+            {
+              "name": "sitting",
+              "value": 1
+            },
+            {
+              "name": "place",
+              "value": 1
+            },
+            {
+              "name": "someone",
+              "value": 1
+            },
+            {
+              "name": "holding",
+              "value": 1
+            },
+            {
+              "name": "steering",
+              "value": 1
+            },
+            {
+              "name": "wheel",
+              "value": 1
+            },
+            {
+              "name": "turned",
+              "value": 1
+            },
+            {
+              "name": "looked",
+              "value": 1
+            },
+            {
+              "name": "windshield",
+              "value": 1
+            },
+            {
+              "name": "longer",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "approval",
+          "value": 20,
+          "children": [
+            {
+              "name": "light",
+              "value": 3
+            },
+            {
+              "name": "true",
+              "value": 2
+            },
+            {
+              "name": "sceptics",
+              "value": 1
+            },
+            {
+              "name": "many",
+              "value": 1
+            },
+            {
+              "name": "stubborn",
+              "value": 1
+            },
+            {
+              "name": "claim",
+              "value": 1
+            },
+            {
+              "name": "comes",
+              "value": 1
+            },
+            {
+              "name": "human",
+              "value": 1
+            },
+            {
+              "name": "nature",
+              "value": 1
+            },
+            {
+              "name": "opportunity",
+              "value": 1
+            },
+            {
+              "name": "always",
+              "value": 1
+            },
+            {
+              "name": "make",
+              "value": 1
+            },
+            {
+              "name": "thief",
+              "value": 1
+            },
+            {
+              "name": "also",
+              "value": 1
+            },
+            {
+              "name": "16",
+              "value": 1
+            },
+            {
+              "name": "blindness",
+              "value": 1
+            },
+            {
+              "name": "helps",
+              "value": 1
+            },
+            {
+              "name": "lot",
+              "value": 1
+            },
+            {
+              "name": "careful",
+              "value": 1
+            },
+            {
+              "name": "obey",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "admiration",
+          "value": 10,
+          "children": [
+            {
+              "name": "end",
+              "value": 1
+            },
+            {
+              "name": "disoriented",
+              "value": 1
+            },
+            {
+              "name": "tense",
+              "value": 1
+            },
+            {
+              "name": "beyond",
+              "value": 1
+            },
+            {
+              "name": "endurance",
+              "value": 1
+            },
+            {
+              "name": "drove",
+              "value": 1
+            },
+            {
+              "name": "car",
+              "value": 1
+            },
+            {
+              "name": "minor",
+              "value": 1
+            },
+            {
+              "name": "road",
+              "value": 1
+            },
+            {
+              "name": "knew",
+              "value": 1
+            },
+            {
+              "name": "traffic",
+              "value": 1
+            },
+            {
+              "name": "lights",
+              "value": 1
+            },
+            {
+              "name": "parked",
+              "value": 1
+            },
+            {
+              "name": "almost",
+              "value": 1
+            },
+            {
+              "name": "without",
+              "value": 1
+            },
+            {
+              "name": "looking",
+              "value": 1
+            },
+            {
+              "name": "good",
+              "value": 1
+            },
+            {
+              "name": "driver",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 10,
+          "children": [
+            {
+              "name": "cer",
+              "value": 1
+            },
+            {
+              "name": "tain",
+              "value": 1
+            },
+            {
+              "name": "point",
+              "value": 1
+            },
+            {
+              "name": "realised",
+              "value": 1
+            },
+            {
+              "name": "started",
+              "value": 1
+            },
+            {
+              "name": "look",
+              "value": 1
+            },
+            {
+              "name": "lights",
+              "value": 1
+            },
+            {
+              "name": "way",
+              "value": 1
+            },
+            {
+              "name": "becoming",
+              "value": 1
+            },
+            {
+              "name": "obsessive",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 3",
+      "value": 3895,
+      "children": [
+        {
+          "name": "realization",
+          "value": 27,
+          "children": [
+            {
+              "name": "doctor",
+              "value": 3
+            },
+            {
+              "name": "changed",
+              "value": 2
+            },
+            {
+              "name": "soon",
+              "value": 2
+            },
+            {
+              "name": "realised",
+              "value": 2
+            },
+            {
+              "name": "information",
+              "value": 2
+            },
+            {
+              "name": "civil",
+              "value": 2
+            },
+            {
+              "name": "sooner",
+              "value": 1
+            },
+            {
+              "name": "uttered",
+              "value": 1
+            },
+            {
+              "name": "last",
+              "value": 1
+            },
+            {
+              "name": "word",
+              "value": 1
+            },
+            {
+              "name": "expression",
+              "value": 1
+            },
+            {
+              "name": "logic",
+              "value": 1
+            },
+            {
+              "name": "efficacy",
+              "value": 1
+            },
+            {
+              "name": "de",
+              "value": 1
+            },
+            {
+              "name": "manded",
+              "value": 1
+            },
+            {
+              "name": "report",
+              "value": 1
+            },
+            {
+              "name": "happening",
+              "value": 1
+            },
+            {
+              "name": "made",
+              "value": 1
+            },
+            {
+              "name": "directly",
+              "value": 1
+            },
+            {
+              "name": "possible",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "fear",
+          "value": 18,
+          "children": [
+            {
+              "name": "doctor",
+              "value": 2
+            },
+            {
+              "name": "white",
+              "value": 2
+            },
+            {
+              "name": "yes",
+              "value": 2
+            },
+            {
+              "name": "get",
+              "value": 2
+            },
+            {
+              "name": "alone",
+              "value": 1
+            },
+            {
+              "name": "slowly",
+              "value": 1
+            },
+            {
+              "name": "garrotted",
+              "value": 1
+            },
+            {
+              "name": "thick",
+              "value": 1
+            },
+            {
+              "name": "cloud",
+              "value": 1
+            },
+            {
+              "name": "weighing",
+              "value": 1
+            },
+            {
+              "name": "chest",
+              "value": 1
+            },
+            {
+              "name": "entering",
+              "value": 1
+            },
+            {
+              "name": "nostrils",
+              "value": 1
+            },
+            {
+              "name": "blinding",
+              "value": 1
+            },
+            {
+              "name": "inside",
+              "value": 1
+            },
+            {
+              "name": "let",
+              "value": 1
+            },
+            {
+              "name": "brief",
+              "value": 1
+            },
+            {
+              "name": "moan",
+              "value": 1
+            },
+            {
+              "name": "allowed",
+              "value": 1
+            },
+            {
+              "name": "two",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "annoyance",
+          "value": 9,
+          "children": [
+            {
+              "name": "case",
+              "value": 1
+            },
+            {
+              "name": "ought",
+              "value": 1
+            },
+            {
+              "name": "call",
+              "value": 1
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "real",
+              "value": 1
+            },
+            {
+              "name": "doc",
+              "value": 1
+            },
+            {
+              "name": "tor",
+              "value": 1
+            },
+            {
+              "name": "quipped",
+              "value": 1
+            },
+            {
+              "name": "functionary",
+              "value": 1
+            },
+            {
+              "name": "delighted",
+              "value": 1
+            },
+            {
+              "name": "wit",
+              "value": 1
+            },
+            {
+              "name": "hung",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "insolence",
+              "value": 1
+            },
+            {
+              "name": "like",
+              "value": 1
+            },
+            {
+              "name": "slap",
+              "value": 1
+            },
+            {
+              "name": "face",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "approval",
+          "value": 9,
+          "children": [
+            {
+              "name": "tell",
+              "value": 2
+            },
+            {
+              "name": "want",
+              "value": 2
+            },
+            {
+              "name": "believe",
+              "value": 2
+            },
+            {
+              "name": "confidential",
+              "value": 2
+            },
+            {
+              "name": "functionary",
+              "value": 1
+            },
+            {
+              "name": "end",
+              "value": 1
+            },
+            {
+              "name": "line",
+              "value": 1
+            },
+            {
+              "name": "replied",
+              "value": 1
+            },
+            {
+              "name": "31",
+              "value": 1
+            },
+            {
+              "name": "jos\u00e9",
+              "value": 1
+            },
+            {
+              "name": "saramago",
+              "value": 1
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "course",
+              "value": 1
+            },
+            {
+              "name": "orders",
+              "value": 1
+            },
+            {
+              "name": "unless",
+              "value": 1
+            },
+            {
+              "name": "discuss",
+              "value": 1
+            },
+            {
+              "name": "take",
+              "value": 1
+            },
+            {
+              "name": "matter",
+              "value": 1
+            },
+            {
+              "name": "matters",
+              "value": 1
+            },
+            {
+              "name": "dealt",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "disgust",
+          "value": 9,
+          "children": [
+            {
+              "name": "face",
+              "value": 2
+            },
+            {
+              "name": "recompense",
+              "value": 1
+            },
+            {
+              "name": "easily",
+              "value": 1
+            },
+            {
+              "name": "imagine",
+              "value": 1
+            },
+            {
+              "name": "fright",
+              "value": 1
+            },
+            {
+              "name": "gave",
+              "value": 1
+            },
+            {
+              "name": "thief",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "opening",
+              "value": 1
+            },
+            {
+              "name": "door",
+              "value": 1
+            },
+            {
+              "name": "came",
+              "value": 1
+            },
+            {
+              "name": "policeman",
+              "value": 1
+            },
+            {
+              "name": "uniform",
+              "value": 1
+            },
+            {
+              "name": "tow",
+              "value": 1
+            },
+            {
+              "name": "seemed",
+              "value": 1
+            },
+            {
+              "name": "forlorn",
+              "value": 1
+            },
+            {
+              "name": "prisoner",
+              "value": 1
+            },
+            {
+              "name": "judging",
+              "value": 1
+            },
+            {
+              "name": "miserable",
+              "value": 1
+            },
+            {
+              "name": "expression",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 4",
+      "value": 7088,
+      "children": [
+        {
+          "name": "surprise",
+          "value": 20,
+          "children": [
+            {
+              "name": "voice",
+              "value": 4
+            },
+            {
+              "name": "replied",
+              "value": 2
+            },
+            {
+              "name": "asked",
+              "value": 2
+            },
+            {
+              "name": "wife",
+              "value": 2
+            },
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "surprised",
+              "value": 2
+            },
+            {
+              "name": "bed",
+              "value": 2
+            },
+            {
+              "name": "unexpected",
+              "value": 1
+            },
+            {
+              "name": "startled",
+              "value": 1
+            },
+            {
+              "name": "new",
+              "value": 1
+            },
+            {
+              "name": "arrivals",
+              "value": 1
+            },
+            {
+              "name": "two",
+              "value": 1
+            },
+            {
+              "name": "men",
+              "value": 1
+            },
+            {
+              "name": "remained",
+              "value": 1
+            },
+            {
+              "name": "silent",
+              "value": 1
+            },
+            {
+              "name": "girl",
+              "value": 1
+            },
+            {
+              "name": "think",
+              "value": 1
+            },
+            {
+              "name": "four",
+              "value": 1
+            },
+            {
+              "name": "us",
+              "value": 1
+            },
+            {
+              "name": "little",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "fear",
+          "value": 15,
+          "children": [
+            {
+              "name": "afraid",
+              "value": 2
+            },
+            {
+              "name": "fear",
+              "value": 2
+            },
+            {
+              "name": "would",
+              "value": 2
+            },
+            {
+              "name": "watched",
+              "value": 1
+            },
+            {
+              "name": "twitching",
+              "value": 1
+            },
+            {
+              "name": "tense",
+              "value": 1
+            },
+            {
+              "name": "necks",
+              "value": 1
+            },
+            {
+              "name": "craned",
+              "value": 1
+            },
+            {
+              "name": "sniffing",
+              "value": 1
+            },
+            {
+              "name": "something",
+              "value": 1
+            },
+            {
+              "name": "yet",
+              "value": 1
+            },
+            {
+              "name": "curiously",
+              "value": 1
+            },
+            {
+              "name": "expressions",
+              "value": 1
+            },
+            {
+              "name": "threatening",
+              "value": 1
+            },
+            {
+              "name": "time",
+              "value": 1
+            },
+            {
+              "name": "one",
+              "value": 1
+            },
+            {
+              "name": "less",
+              "value": 1
+            },
+            {
+              "name": "true",
+              "value": 1
+            },
+            {
+              "name": "threats",
+              "value": 1
+            },
+            {
+              "name": "fered",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 10,
+          "children": [
+            {
+              "name": "good",
+              "value": 1
+            },
+            {
+              "name": "thought",
+              "value": 1
+            },
+            {
+              "name": "lost",
+              "value": 1
+            },
+            {
+              "name": "among",
+              "value": 1
+            },
+            {
+              "name": "dead",
+              "value": 1
+            },
+            {
+              "name": "wounded",
+              "value": 1
+            },
+            {
+              "name": "someone",
+              "value": 1
+            },
+            {
+              "name": "escape",
+              "value": 1
+            },
+            {
+              "name": "drifting",
+              "value": 1
+            },
+            {
+              "name": "away",
+              "value": 1
+            },
+            {
+              "name": "conversation",
+              "value": 1
+            },
+            {
+              "name": "began",
+              "value": 1
+            },
+            {
+              "name": "daydream",
+              "value": 1
+            },
+            {
+              "name": "neither",
+              "value": 1
+            },
+            {
+              "name": "first",
+              "value": 1
+            },
+            {
+              "name": "blind",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "girl",
+              "value": 1
+            },
+            {
+              "name": "glasses",
+              "value": 1
+            },
+            {
+              "name": "realised",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "anger",
+          "value": 5,
+          "children": [
+            {
+              "name": "said",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 2
+            },
+            {
+              "name": "keep",
+              "value": 1
+            },
+            {
+              "name": "calm",
+              "value": 1
+            },
+            {
+              "name": "one",
+              "value": 1
+            },
+            {
+              "name": "blame",
+              "value": 1
+            },
+            {
+              "name": "epi",
+              "value": 1
+            },
+            {
+              "name": "demic",
+              "value": 1
+            },
+            {
+              "name": "everyone",
+              "value": 1
+            },
+            {
+              "name": "victim",
+              "value": 1
+            },
+            {
+              "name": "decent",
+              "value": 1
+            },
+            {
+              "name": "fellow",
+              "value": 1
+            },
+            {
+              "name": "helped",
+              "value": 1
+            },
+            {
+              "name": "find",
+              "value": 1
+            },
+            {
+              "name": "way",
+              "value": 1
+            },
+            {
+              "name": "home",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "precious",
+              "value": 1
+            },
+            {
+              "name": "eyes",
+              "value": 1
+            },
+            {
+              "name": "asked",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "annoyance",
+          "value": 5,
+          "children": [
+            {
+              "name": "thief",
+              "value": 1
+            },
+            {
+              "name": "sat",
+              "value": 1
+            },
+            {
+              "name": "bed",
+              "value": 1
+            },
+            {
+              "name": "saying",
+              "value": 1
+            },
+            {
+              "name": "shit",
+              "value": 1
+            },
+            {
+              "name": "go",
+              "value": 1
+            },
+            {
+              "name": "piss",
+              "value": 1
+            },
+            {
+              "name": "place",
+              "value": 1
+            },
+            {
+              "name": "watch",
+              "value": 1
+            },
+            {
+              "name": "language",
+              "value": 1
+            },
+            {
+              "name": "child",
+              "value": 1
+            },
+            {
+              "name": "protested",
+              "value": 1
+            },
+            {
+              "name": "girl",
+              "value": 1
+            },
+            {
+              "name": "dark",
+              "value": 1
+            },
+            {
+              "name": "glasses",
+              "value": 1
+            },
+            {
+              "name": "certainly",
+              "value": 1
+            },
+            {
+              "name": "sweetheart",
+              "value": 1
+            },
+            {
+              "name": "unless",
+              "value": 1
+            },
+            {
+              "name": "find",
+              "value": 1
+            },
+            {
+              "name": "lavatory",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 5",
+      "value": 8117,
+      "children": [
+        {
+          "name": "fear",
+          "value": 16,
+          "children": [
+            {
+              "name": "bed",
+              "value": 3
+            },
+            {
+              "name": "opposite",
+              "value": 2
+            },
+            {
+              "name": "might",
+              "value": 2
+            },
+            {
+              "name": "fear",
+              "value": 2
+            },
+            {
+              "name": "blood",
+              "value": 2
+            },
+            {
+              "name": "blast",
+              "value": 2
+            },
+            {
+              "name": "noise",
+              "value": 2
+            },
+            {
+              "name": "soldiers",
+              "value": 2
+            },
+            {
+              "name": "blind",
+              "value": 1
+            },
+            {
+              "name": "murmured",
+              "value": 1
+            },
+            {
+              "name": "suddenly",
+              "value": 1
+            },
+            {
+              "name": "panicking",
+              "value": 1
+            },
+            {
+              "name": "raised",
+              "value": 1
+            },
+            {
+              "name": "girl",
+              "value": 1
+            },
+            {
+              "name": "dark",
+              "value": 1
+            },
+            {
+              "name": "glasses",
+              "value": 1
+            },
+            {
+              "name": "occupying",
+              "value": 1
+            },
+            {
+              "name": "heard",
+              "value": 1
+            },
+            {
+              "name": "far",
+              "value": 1
+            },
+            {
+              "name": "end",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "sadness",
+          "value": 16,
+          "children": [
+            {
+              "name": "could",
+              "value": 3
+            },
+            {
+              "name": "someone",
+              "value": 2
+            },
+            {
+              "name": "wife",
+              "value": 2
+            },
+            {
+              "name": "said",
+              "value": 2
+            },
+            {
+              "name": "still",
+              "value": 2
+            },
+            {
+              "name": "came",
+              "value": 2
+            },
+            {
+              "name": "din",
+              "value": 1
+            },
+            {
+              "name": "got",
+              "value": 1
+            },
+            {
+              "name": "louder",
+              "value": 1
+            },
+            {
+              "name": "qui",
+              "value": 1
+            },
+            {
+              "name": "etened",
+              "value": 1
+            },
+            {
+              "name": "door",
+              "value": 1
+            },
+            {
+              "name": "slammed",
+              "value": 1
+            },
+            {
+              "name": "shut",
+              "value": 1
+            },
+            {
+              "name": "heard",
+              "value": 1
+            },
+            {
+              "name": "distressed",
+              "value": 1
+            },
+            {
+              "name": "sobbing",
+              "value": 1
+            },
+            {
+              "name": "unmistakable",
+              "value": 1
+            },
+            {
+              "name": "clatter",
+              "value": 1
+            },
+            {
+              "name": "made",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 12,
+          "children": [
+            {
+              "name": "realised",
+              "value": 2
+            },
+            {
+              "name": "find",
+              "value": 2
+            },
+            {
+              "name": "top",
+              "value": 1
+            },
+            {
+              "name": "steps",
+              "value": 1
+            },
+            {
+              "name": "leading",
+              "value": 1
+            },
+            {
+              "name": "forecourt",
+              "value": 1
+            },
+            {
+              "name": "daylight",
+              "value": 1
+            },
+            {
+              "name": "dazzled",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "intense",
+              "value": 1
+            },
+            {
+              "name": "dark",
+              "value": 1
+            },
+            {
+              "name": "clouds",
+              "value": 1
+            },
+            {
+              "name": "passing",
+              "value": 1
+            },
+            {
+              "name": "across",
+              "value": 1
+            },
+            {
+              "name": "sky",
+              "value": 1
+            },
+            {
+              "name": "62",
+              "value": 1
+            },
+            {
+              "name": "blindness",
+              "value": 1
+            },
+            {
+              "name": "looked",
+              "value": 1
+            },
+            {
+              "name": "might",
+              "value": 1
+            },
+            {
+              "name": "rain",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "anger",
+          "value": 9,
+          "children": [
+            {
+              "name": "blind",
+              "value": 4
+            },
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "get",
+              "value": 2
+            },
+            {
+              "name": "stay",
+              "value": 2
+            },
+            {
+              "name": "orders",
+              "value": 2
+            },
+            {
+              "name": "sergeant",
+              "value": 2
+            },
+            {
+              "name": "man",
+              "value": 2
+            },
+            {
+              "name": "watching",
+              "value": 1
+            },
+            {
+              "name": "husband",
+              "value": 1
+            },
+            {
+              "name": "murmuring",
+              "value": 1
+            },
+            {
+              "name": "sleep",
+              "value": 1
+            },
+            {
+              "name": "shadowy",
+              "value": 1
+            },
+            {
+              "name": "forms",
+              "value": 1
+            },
+            {
+              "name": "oth",
+              "value": 1
+            },
+            {
+              "name": "ers",
+              "value": 1
+            },
+            {
+              "name": "beneath",
+              "value": 1
+            },
+            {
+              "name": "grey",
+              "value": 1
+            },
+            {
+              "name": "blankets",
+              "value": 1
+            },
+            {
+              "name": "grimy",
+              "value": 1
+            },
+            {
+              "name": "walls",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "surprise",
+          "value": 7,
+          "children": [
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "leg",
+              "value": 2
+            },
+            {
+              "name": "felt",
+              "value": 2
+            },
+            {
+              "name": "wanted",
+              "value": 2
+            },
+            {
+              "name": "would",
+              "value": 2
+            },
+            {
+              "name": "inch",
+              "value": 2
+            },
+            {
+              "name": "hear",
+              "value": 1
+            },
+            {
+              "name": "husband",
+              "value": 1
+            },
+            {
+              "name": "breathing",
+              "value": 1
+            },
+            {
+              "name": "deeply",
+              "value": 1
+            },
+            {
+              "name": "next",
+              "value": 1
+            },
+            {
+              "name": "bed",
+              "value": 1
+            },
+            {
+              "name": "someone",
+              "value": 1
+            },
+            {
+              "name": "snoring",
+              "value": 1
+            },
+            {
+              "name": "wonder",
+              "value": 1
+            },
+            {
+              "name": "wound",
+              "value": 1
+            },
+            {
+              "name": "fellows",
+              "value": 1
+            },
+            {
+              "name": "asked",
+              "value": 1
+            },
+            {
+              "name": "knew",
+              "value": 1
+            },
+            {
+              "name": "moment",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 6",
+      "value": 6293,
+      "children": [
+        {
+          "name": "fear",
+          "value": 29,
+          "children": [
+            {
+              "name": "turn",
+              "value": 3
+            },
+            {
+              "name": "door",
+              "value": 3
+            },
+            {
+              "name": "wing",
+              "value": 2
+            },
+            {
+              "name": "awaiting",
+              "value": 2
+            },
+            {
+              "name": "would",
+              "value": 2
+            },
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "might",
+              "value": 2
+            },
+            {
+              "name": "come",
+              "value": 2
+            },
+            {
+              "name": "hallway",
+              "value": 2
+            },
+            {
+              "name": "fear",
+              "value": 2
+            },
+            {
+              "name": "blame",
+              "value": 2
+            },
+            {
+              "name": "thought",
+              "value": 2
+            },
+            {
+              "name": "closed",
+              "value": 1
+            },
+            {
+              "name": "win",
+              "value": 1
+            },
+            {
+              "name": "dows",
+              "value": 1
+            },
+            {
+              "name": "corridor",
+              "value": 1
+            },
+            {
+              "name": "ran",
+              "value": 1
+            },
+            {
+              "name": "full",
+              "value": 1
+            },
+            {
+              "name": "length",
+              "value": 1
+            },
+            {
+              "name": "served",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "approval",
+          "value": 18,
+          "children": [
+            {
+              "name": "blind",
+              "value": 3
+            },
+            {
+              "name": "sergeant",
+              "value": 2
+            },
+            {
+              "name": "digging",
+              "value": 2
+            },
+            {
+              "name": "people",
+              "value": 2
+            },
+            {
+              "name": "rations",
+              "value": 2
+            },
+            {
+              "name": "woman",
+              "value": 1
+            },
+            {
+              "name": "right",
+              "value": 1
+            },
+            {
+              "name": "flected",
+              "value": 1
+            },
+            {
+              "name": "situation",
+              "value": 1
+            },
+            {
+              "name": "like",
+              "value": 1
+            },
+            {
+              "name": "doubt",
+              "value": 1
+            },
+            {
+              "name": "one",
+              "value": 1
+            },
+            {
+              "name": "cannot",
+              "value": 1
+            },
+            {
+              "name": "careful",
+              "value": 1
+            },
+            {
+              "name": "enough",
+              "value": 1
+            },
+            {
+              "name": "learn",
+              "value": 1
+            },
+            {
+              "name": "quickly",
+              "value": 1
+            },
+            {
+              "name": "find",
+              "value": 1
+            },
+            {
+              "name": "way",
+              "value": 1
+            },
+            {
+              "name": "around",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 11,
+          "children": [
+            {
+              "name": "words",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "aware",
+              "value": 1
+            },
+            {
+              "name": "abuse",
+              "value": 1
+            },
+            {
+              "name": "thought",
+              "value": 1
+            },
+            {
+              "name": "wise",
+              "value": 1
+            },
+            {
+              "name": "say",
+              "value": 1
+            },
+            {
+              "name": "nothing",
+              "value": 1
+            },
+            {
+              "name": "advantage",
+              "value": 1
+            },
+            {
+              "name": "enjoyed",
+              "value": 1
+            },
+            {
+              "name": "blind",
+              "value": 1
+            },
+            {
+              "name": "men",
+              "value": 1
+            },
+            {
+              "name": "might",
+              "value": 1
+            },
+            {
+              "name": "called",
+              "value": 1
+            },
+            {
+              "name": "illusion",
+              "value": 1
+            },
+            {
+              "name": "light",
+              "value": 1
+            },
+            {
+              "name": "mo",
+              "value": 1
+            },
+            {
+              "name": "ment",
+              "value": 1
+            },
+            {
+              "name": "sighs",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "sadness",
+          "value": 11,
+          "children": [
+            {
+              "name": "whether",
+              "value": 1
+            },
+            {
+              "name": "happened",
+              "value": 1
+            },
+            {
+              "name": "early",
+              "value": 1
+            },
+            {
+              "name": "morning",
+              "value": 1
+            },
+            {
+              "name": "reasons",
+              "value": 1
+            },
+            {
+              "name": "beyond",
+              "value": 1
+            },
+            {
+              "name": "ken",
+              "value": 1
+            },
+            {
+              "name": "sad",
+              "value": 1
+            },
+            {
+              "name": "truth",
+              "value": 1
+            },
+            {
+              "name": "containers",
+              "value": 1
+            },
+            {
+              "name": "delivered",
+              "value": 1
+            },
+            {
+              "name": "breakfast",
+              "value": 1
+            },
+            {
+              "name": "time",
+              "value": 1
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "sighed",
+              "value": 1
+            },
+            {
+              "name": "life",
+              "value": 1
+            },
+            {
+              "name": "together",
+              "value": 1
+            },
+            {
+              "name": "going",
+              "value": 1
+            },
+            {
+              "name": "difficult",
+              "value": 1
+            },
+            {
+              "name": "sorrowful",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "disgust",
+          "value": 7,
+          "children": [
+            {
+              "name": "blind",
+              "value": 3
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "knew",
+              "value": 1
+            },
+            {
+              "name": "hideous",
+              "value": 1
+            },
+            {
+              "name": "state",
+              "value": 1
+            },
+            {
+              "name": "dead",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "body",
+              "value": 1
+            },
+            {
+              "name": "face",
+              "value": 1
+            },
+            {
+              "name": "skull",
+              "value": 1
+            },
+            {
+              "name": "blown",
+              "value": 1
+            },
+            {
+              "name": "smithereens",
+              "value": 1
+            },
+            {
+              "name": "gunshots",
+              "value": 1
+            },
+            {
+              "name": "three",
+              "value": 1
+            },
+            {
+              "name": "holes",
+              "value": 1
+            },
+            {
+              "name": "bullets",
+              "value": 1
+            },
+            {
+              "name": "penetrated",
+              "value": 1
+            },
+            {
+              "name": "neck",
+              "value": 1
+            },
+            {
+              "name": "region",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 7",
+      "value": 7158,
+      "children": [
+        {
+          "name": "fear",
+          "value": 27,
+          "children": [
+            {
+              "name": "blind",
+              "value": 5
+            },
+            {
+              "name": "one",
+              "value": 3
+            },
+            {
+              "name": "would",
+              "value": 3
+            },
+            {
+              "name": "gone",
+              "value": 2
+            },
+            {
+              "name": "minute",
+              "value": 2
+            },
+            {
+              "name": "whisper",
+              "value": 2
+            },
+            {
+              "name": "terrified",
+              "value": 2
+            },
+            {
+              "name": "internees",
+              "value": 2
+            },
+            {
+              "name": "blindness",
+              "value": 2
+            },
+            {
+              "name": "white",
+              "value": 2
+            },
+            {
+              "name": "space",
+              "value": 2
+            },
+            {
+              "name": "love",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "thought",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "greatly",
+              "value": 1
+            },
+            {
+              "name": "feared",
+              "value": 1
+            },
+            {
+              "name": "finally",
+              "value": 1
+            },
+            {
+              "name": "happened",
+              "value": 1
+            },
+            {
+              "name": "beside",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "sadness",
+          "value": 19,
+          "children": [
+            {
+              "name": "suddenly",
+              "value": 2
+            },
+            {
+              "name": "girl",
+              "value": 2
+            },
+            {
+              "name": "torment",
+              "value": 2
+            },
+            {
+              "name": "unable",
+              "value": 1
+            },
+            {
+              "name": "control",
+              "value": 1
+            },
+            {
+              "name": "burst",
+              "value": 1
+            },
+            {
+              "name": "convulsive",
+              "value": 1
+            },
+            {
+              "name": "weeping",
+              "value": 1
+            },
+            {
+              "name": "worst",
+              "value": 1
+            },
+            {
+              "name": "disasters",
+              "value": 1
+            },
+            {
+              "name": "befallen",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "sobbing",
+              "value": 1
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "got",
+              "value": 1
+            },
+            {
+              "name": "bed",
+              "value": 1
+            },
+            {
+              "name": "embraced",
+              "value": 1
+            },
+            {
+              "name": "said",
+              "value": 1
+            },
+            {
+              "name": "nothing",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "confusion",
+          "value": 12,
+          "children": [
+            {
+              "name": "blind",
+              "value": 3
+            },
+            {
+              "name": "man",
+              "value": 3
+            },
+            {
+              "name": "one",
+              "value": 2
+            },
+            {
+              "name": "confusion",
+              "value": 2
+            },
+            {
+              "name": "arms",
+              "value": 2
+            },
+            {
+              "name": "side",
+              "value": 2
+            },
+            {
+              "name": "finally",
+              "value": 1
+            },
+            {
+              "name": "bumped",
+              "value": 1
+            },
+            {
+              "name": "contain",
+              "value": 1
+            },
+            {
+              "name": "ers",
+              "value": 1
+            },
+            {
+              "name": "called",
+              "value": 1
+            },
+            {
+              "name": "got",
+              "value": 1
+            },
+            {
+              "name": "hold",
+              "value": 1
+            },
+            {
+              "name": "recover",
+              "value": 1
+            },
+            {
+              "name": "eyesight",
+              "value": 1
+            },
+            {
+              "name": "day",
+              "value": 1
+            },
+            {
+              "name": "would",
+              "value": 1
+            },
+            {
+              "name": "certainly",
+              "value": 1
+            },
+            {
+              "name": "announce",
+              "value": 1
+            },
+            {
+              "name": "wonderful",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "nervousness",
+          "value": 8,
+          "children": [
+            {
+              "name": "nervous",
+              "value": 2
+            },
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "sergeant",
+              "value": 2
+            },
+            {
+              "name": "given",
+              "value": 2
+            },
+            {
+              "name": "order",
+              "value": 2
+            },
+            {
+              "name": "kept",
+              "value": 1
+            },
+            {
+              "name": "shuffling",
+              "value": 1
+            },
+            {
+              "name": "feet",
+              "value": 1
+            },
+            {
+              "name": "impatient",
+              "value": 1
+            },
+            {
+              "name": "going",
+              "value": 1
+            },
+            {
+              "name": "stay",
+              "value": 1
+            },
+            {
+              "name": "day",
+              "value": 1
+            },
+            {
+              "name": "bat",
+              "value": 1
+            },
+            {
+              "name": "asked",
+              "value": 1
+            },
+            {
+              "name": "somewhat",
+              "value": 1
+            },
+            {
+              "name": "voice",
+              "value": 1
+            },
+            {
+              "name": "truth",
+              "value": 1
+            },
+            {
+              "name": "share",
+              "value": 1
+            },
+            {
+              "name": "opinion",
+              "value": 1
+            },
+            {
+              "name": "commander",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 8,
+          "children": [
+            {
+              "name": "blind",
+              "value": 1
+            },
+            {
+              "name": "internees",
+              "value": 1
+            },
+            {
+              "name": "opened",
+              "value": 1
+            },
+            {
+              "name": "eyes",
+              "value": 1
+            },
+            {
+              "name": "morning",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "way",
+              "value": 1
+            },
+            {
+              "name": "case",
+              "value": 1
+            },
+            {
+              "name": "much",
+              "value": 1
+            },
+            {
+              "name": "hunger",
+              "value": 1
+            },
+            {
+              "name": "cause",
+              "value": 1
+            },
+            {
+              "name": "biological",
+              "value": 1
+            },
+            {
+              "name": "clock",
+              "value": 1
+            },
+            {
+              "name": "whatever",
+              "value": 1
+            },
+            {
+              "name": "call",
+              "value": 1
+            },
+            {
+              "name": "longer",
+              "value": 1
+            },
+            {
+              "name": "working",
+              "value": 1
+            },
+            {
+              "name": "properly",
+              "value": 1
+            },
+            {
+              "name": "assumed",
+              "value": 1
+            },
+            {
+              "name": "daylight",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 8",
+      "value": 5980,
+      "children": [
+        {
+          "name": "realization",
+          "value": 43,
+          "children": [
+            {
+              "name": "almost",
+              "value": 2
+            },
+            {
+              "name": "used",
+              "value": 2
+            },
+            {
+              "name": "complementary",
+              "value": 2
+            },
+            {
+              "name": "without",
+              "value": 2
+            },
+            {
+              "name": "beginning",
+              "value": 2
+            },
+            {
+              "name": "difference",
+              "value": 1
+            },
+            {
+              "name": "imperceptible",
+              "value": 1
+            },
+            {
+              "name": "reason",
+              "value": 1
+            },
+            {
+              "name": "previously",
+              "value": 1
+            },
+            {
+              "name": "unforeseen",
+              "value": 1
+            },
+            {
+              "name": "change",
+              "value": 1
+            },
+            {
+              "name": "rather",
+              "value": 1
+            },
+            {
+              "name": "formal",
+              "value": 1
+            },
+            {
+              "name": "controlled",
+              "value": 1
+            },
+            {
+              "name": "language",
+              "value": 1
+            },
+            {
+              "name": "narrator",
+              "value": 1
+            },
+            {
+              "name": "disqualifies",
+              "value": 1
+            },
+            {
+              "name": "porter",
+              "value": 1
+            },
+            {
+              "name": "however",
+              "value": 1
+            },
+            {
+              "name": "important",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "fear",
+          "value": 29,
+          "children": [
+            {
+              "name": "blind",
+              "value": 8
+            },
+            {
+              "name": "fear",
+              "value": 3
+            },
+            {
+              "name": "thoughts",
+              "value": 2
+            },
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "truer",
+              "value": 2
+            },
+            {
+              "name": "us",
+              "value": 2
+            },
+            {
+              "name": "man",
+              "value": 2
+            },
+            {
+              "name": "indeed",
+              "value": 1
+            },
+            {
+              "name": "appropri",
+              "value": 1
+            },
+            {
+              "name": "ate",
+              "value": 1
+            },
+            {
+              "name": "expect",
+              "value": 1
+            },
+            {
+              "name": "reaction",
+              "value": 1
+            },
+            {
+              "name": "someone",
+              "value": 1
+            },
+            {
+              "name": "preoccu",
+              "value": 1
+            },
+            {
+              "name": "pied",
+              "value": 1
+            },
+            {
+              "name": "sad",
+              "value": 1
+            },
+            {
+              "name": "indifferent",
+              "value": 1
+            },
+            {
+              "name": "happy",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "exist",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "amusement",
+          "value": 14,
+          "children": [
+            {
+              "name": "four",
+              "value": 2
+            },
+            {
+              "name": "one",
+              "value": 1
+            },
+            {
+              "name": "blind",
+              "value": 1
+            },
+            {
+              "name": "women",
+              "value": 1
+            },
+            {
+              "name": "asked",
+              "value": 1
+            },
+            {
+              "name": "laughing",
+              "value": 1
+            },
+            {
+              "name": "afternoon",
+              "value": 1
+            },
+            {
+              "name": "morning",
+              "value": 1
+            },
+            {
+              "name": "laughter",
+              "value": 1
+            },
+            {
+              "name": "hurt",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "disappointment",
+          "value": 14,
+          "children": [
+            {
+              "name": "situation",
+              "value": 1
+            },
+            {
+              "name": "bad",
+              "value": 1
+            },
+            {
+              "name": "everyone",
+              "value": 1
+            },
+            {
+              "name": "stricken",
+              "value": 1
+            },
+            {
+              "name": "blindness",
+              "value": 1
+            },
+            {
+              "name": "catastrophic",
+              "value": 1
+            },
+            {
+              "name": "since",
+              "value": 1
+            },
+            {
+              "name": "ac",
+              "value": 1
+            },
+            {
+              "name": "cording",
+              "value": 1
+            },
+            {
+              "name": "current",
+              "value": 1
+            },
+            {
+              "name": "expression",
+              "value": 1
+            },
+            {
+              "name": "could",
+              "value": 1
+            },
+            {
+              "name": "see",
+              "value": 1
+            },
+            {
+              "name": "putting",
+              "value": 1
+            },
+            {
+              "name": "feet",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 9",
+      "value": 6612,
+      "children": [
+        {
+          "name": "realization",
+          "value": 21,
+          "children": [
+            {
+              "name": "wife",
+              "value": 2
+            },
+            {
+              "name": "realised",
+              "value": 2
+            },
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "many",
+              "value": 2
+            },
+            {
+              "name": "certainly",
+              "value": 2
+            },
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "person",
+              "value": 2
+            },
+            {
+              "name": "reached",
+              "value": 1
+            },
+            {
+              "name": "hallway",
+              "value": 1
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "diplomatic",
+              "value": 1
+            },
+            {
+              "name": "conversation",
+              "value": 1
+            },
+            {
+              "name": "would",
+              "value": 1
+            },
+            {
+              "name": "possible",
+              "value": 1
+            },
+            {
+              "name": "probably",
+              "value": 1
+            },
+            {
+              "name": "never",
+              "value": 1
+            },
+            {
+              "name": "likely",
+              "value": 1
+            },
+            {
+              "name": "soldiers",
+              "value": 1
+            },
+            {
+              "name": "pretended",
+              "value": 1
+            },
+            {
+              "name": "hear",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "surprise",
+          "value": 21,
+          "children": [
+            {
+              "name": "blind",
+              "value": 4
+            },
+            {
+              "name": "perhaps",
+              "value": 3
+            },
+            {
+              "name": "could",
+              "value": 3
+            },
+            {
+              "name": "whether",
+              "value": 2
+            },
+            {
+              "name": "might",
+              "value": 2
+            },
+            {
+              "name": "would",
+              "value": 2
+            },
+            {
+              "name": "sight",
+              "value": 2
+            },
+            {
+              "name": "turned",
+              "value": 2
+            },
+            {
+              "name": "internees",
+              "value": 2
+            },
+            {
+              "name": "people",
+              "value": 2
+            },
+            {
+              "name": "one",
+              "value": 2
+            },
+            {
+              "name": "wondered",
+              "value": 1
+            },
+            {
+              "name": "tell",
+              "value": 1
+            },
+            {
+              "name": "gather",
+              "value": 1
+            },
+            {
+              "name": "together",
+              "value": 1
+            },
+            {
+              "name": "announce",
+              "value": 1
+            },
+            {
+              "name": "news",
+              "value": 1
+            },
+            {
+              "name": "preferable",
+              "value": 1
+            },
+            {
+              "name": "discreet",
+              "value": 1
+            },
+            {
+              "name": "manner",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "annoyance",
+          "value": 11,
+          "children": [
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "come",
+              "value": 2
+            },
+            {
+              "name": "animals",
+              "value": 2
+            },
+            {
+              "name": "internees",
+              "value": 1
+            },
+            {
+              "name": "unless",
+              "value": 1
+            },
+            {
+              "name": "assistance",
+              "value": 1
+            },
+            {
+              "name": "soon",
+              "value": 1
+            },
+            {
+              "name": "132",
+              "value": 1
+            },
+            {
+              "name": "blindness",
+              "value": 1
+            },
+            {
+              "name": "turn",
+              "value": 1
+            },
+            {
+              "name": "worse",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "courage",
+              "value": 1
+            },
+            {
+              "name": "seemed",
+              "value": 1
+            },
+            {
+              "name": "resolute",
+              "value": 1
+            },
+            {
+              "name": "began",
+              "value": 1
+            },
+            {
+              "name": "crumble",
+              "value": 1
+            },
+            {
+              "name": "gradually",
+              "value": 1
+            },
+            {
+              "name": "desert",
+              "value": 1
+            },
+            {
+              "name": "confronted",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "approval",
+          "value": 11,
+          "children": [
+            {
+              "name": "ward",
+              "value": 2
+            },
+            {
+              "name": "necessary",
+              "value": 1
+            },
+            {
+              "name": "proceed",
+              "value": 1
+            },
+            {
+              "name": "vote",
+              "value": 1
+            },
+            {
+              "name": "entire",
+              "value": 1
+            },
+            {
+              "name": "agreement",
+              "value": 1
+            },
+            {
+              "name": "malcontents",
+              "value": 1
+            },
+            {
+              "name": "lowered",
+              "value": 1
+            },
+            {
+              "name": "voices",
+              "value": 1
+            },
+            {
+              "name": "ended",
+              "value": 1
+            },
+            {
+              "name": "agreeing",
+              "value": 1
+            },
+            {
+              "name": "undoubtedly",
+              "value": 1
+            },
+            {
+              "name": "interests",
+              "value": 1
+            },
+            {
+              "name": "right",
+              "value": 1
+            },
+            {
+              "name": "hands",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "caring",
+          "value": 11,
+          "children": [
+            {
+              "name": "said",
+              "value": 3
+            },
+            {
+              "name": "husband",
+              "value": 2
+            },
+            {
+              "name": "ring",
+              "value": 2
+            },
+            {
+              "name": "everything",
+              "value": 2
+            },
+            {
+              "name": "value",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 2
+            },
+            {
+              "name": "careful",
+              "value": 2
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "unclasped",
+              "value": 1
+            },
+            {
+              "name": "watch",
+              "value": 1
+            },
+            {
+              "name": "removed",
+              "value": 1
+            },
+            {
+              "name": "earrings",
+              "value": 1
+            },
+            {
+              "name": "tiny",
+              "value": 1
+            },
+            {
+              "name": "set",
+              "value": 1
+            },
+            {
+              "name": "rubies",
+              "value": 1
+            },
+            {
+              "name": "gold",
+              "value": 1
+            },
+            {
+              "name": "chain",
+              "value": 1
+            },
+            {
+              "name": "wore",
+              "value": 1
+            },
+            {
+              "name": "round",
+              "value": 1
+            },
+            {
+              "name": "neck",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 10",
+      "value": 4024,
+      "children": [
+        {
+          "name": "curiosity",
+          "value": 20,
+          "children": [
+            {
+              "name": "curious",
+              "value": 1
+            },
+            {
+              "name": "touched",
+              "value": 1
+            },
+            {
+              "name": "subject",
+              "value": 1
+            },
+            {
+              "name": "occurred",
+              "value": 1
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "accustomed",
+              "value": 1
+            },
+            {
+              "name": "fact",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "could",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "see",
+              "value": 1
+            },
+            {
+              "name": "many",
+              "value": 1
+            },
+            {
+              "name": "wondered",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "fear",
+          "value": 20,
+          "children": [
+            {
+              "name": "side",
+              "value": 1
+            },
+            {
+              "name": "street",
+              "value": 1
+            },
+            {
+              "name": "buildings",
+              "value": 1
+            },
+            {
+              "name": "darkness",
+              "value": 1
+            },
+            {
+              "name": "first",
+              "value": 1
+            },
+            {
+              "name": "time",
+              "value": 1
+            },
+            {
+              "name": "since",
+              "value": 1
+            },
+            {
+              "name": "left",
+              "value": 1
+            },
+            {
+              "name": "ward",
+              "value": 1
+            },
+            {
+              "name": "felt",
+              "value": 1
+            },
+            {
+              "name": "cold",
+              "value": 1
+            },
+            {
+              "name": "shiver",
+              "value": 1
+            },
+            {
+              "name": "run",
+              "value": 1
+            },
+            {
+              "name": "flagstones",
+              "value": 1
+            },
+            {
+              "name": "turning",
+              "value": 1
+            },
+            {
+              "name": "158",
+              "value": 1
+            },
+            {
+              "name": "blindness",
+              "value": 1
+            },
+            {
+              "name": "feet",
+              "value": 1
+            },
+            {
+              "name": "ice",
+              "value": 1
+            },
+            {
+              "name": "scorched",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 20,
+          "children": [
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "together",
+              "value": 2
+            },
+            {
+              "name": "probably",
+              "value": 2
+            },
+            {
+              "name": "noise",
+              "value": 2
+            },
+            {
+              "name": "think",
+              "value": 1
+            },
+            {
+              "name": "pushed",
+              "value": 1
+            },
+            {
+              "name": "beds",
+              "value": 1
+            },
+            {
+              "name": "slept",
+              "value": 1
+            },
+            {
+              "name": "without",
+              "value": 1
+            },
+            {
+              "name": "constant",
+              "value": 1
+            },
+            {
+              "name": "worry",
+              "value": 1
+            },
+            {
+              "name": "might",
+              "value": 1
+            },
+            {
+              "name": "fall",
+              "value": 1
+            },
+            {
+              "name": "bed",
+              "value": 1
+            },
+            {
+              "name": "light",
+              "value": 1
+            },
+            {
+              "name": "another",
+              "value": 1
+            },
+            {
+              "name": "silhouette",
+              "value": 1
+            },
+            {
+              "name": "appeared",
+              "value": 1
+            },
+            {
+              "name": "guard",
+              "value": 1
+            },
+            {
+              "name": "relief",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "admiration",
+          "value": 10,
+          "children": [
+            {
+              "name": "tall",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "large",
+              "value": 1
+            },
+            {
+              "name": "hands",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "approval",
+          "value": 10,
+          "children": [
+            {
+              "name": "like",
+              "value": 1
+            },
+            {
+              "name": "line",
+              "value": 1
+            },
+            {
+              "name": "gunpowder",
+              "value": 1
+            },
+            {
+              "name": "quickly",
+              "value": 1
+            },
+            {
+              "name": "successively",
+              "value": 1
+            },
+            {
+              "name": "reached",
+              "value": 1
+            },
+            {
+              "name": "happened",
+              "value": 1
+            },
+            {
+              "name": "studio",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 11",
+      "value": 9616,
+      "children": [
+        {
+          "name": "realization",
+          "value": 18,
+          "children": [
+            {
+              "name": "men",
+              "value": 2
+            },
+            {
+              "name": "women",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 2
+            },
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "shall",
+              "value": 2
+            },
+            {
+              "name": "humiliated",
+              "value": 1
+            },
+            {
+              "name": "emissaries",
+              "value": 1
+            },
+            {
+              "name": "returned",
+              "value": 1
+            },
+            {
+              "name": "wards",
+              "value": 1
+            },
+            {
+              "name": "order",
+              "value": 1
+            },
+            {
+              "name": "either",
+              "value": 1
+            },
+            {
+              "name": "go",
+              "value": 1
+            },
+            {
+              "name": "give",
+              "value": 1
+            },
+            {
+              "name": "us",
+              "value": 1
+            },
+            {
+              "name": "nothing",
+              "value": 1
+            },
+            {
+              "name": "eat",
+              "value": 1
+            },
+            {
+              "name": "put",
+              "value": 1
+            },
+            {
+              "name": "shrugged",
+              "value": 1
+            },
+            {
+              "name": "shoulders",
+              "value": 1
+            },
+            {
+              "name": "aware",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "annoyance",
+          "value": 14,
+          "children": [
+            {
+              "name": "come",
+              "value": 3
+            },
+            {
+              "name": "eat",
+              "value": 3
+            },
+            {
+              "name": "face",
+              "value": 3
+            },
+            {
+              "name": "see",
+              "value": 3
+            },
+            {
+              "name": "suck",
+              "value": 3
+            },
+            {
+              "name": "like",
+              "value": 2
+            },
+            {
+              "name": "one",
+              "value": 2
+            },
+            {
+              "name": "laughter",
+              "value": 2
+            },
+            {
+              "name": "said",
+              "value": 2
+            },
+            {
+              "name": "almost",
+              "value": 2
+            },
+            {
+              "name": "question",
+              "value": 2
+            },
+            {
+              "name": "nothing",
+              "value": 2
+            },
+            {
+              "name": "recognise",
+              "value": 2
+            },
+            {
+              "name": "voice",
+              "value": 2
+            },
+            {
+              "name": "cannot",
+              "value": 2
+            },
+            {
+              "name": "back",
+              "value": 2
+            },
+            {
+              "name": "tell",
+              "value": 2
+            },
+            {
+              "name": "men",
+              "value": 1
+            },
+            {
+              "name": "tried",
+              "value": 1
+            },
+            {
+              "name": "justify",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "sadness",
+          "value": 14,
+          "children": [
+            {
+              "name": "would",
+              "value": 5
+            },
+            {
+              "name": "blind",
+              "value": 4
+            },
+            {
+              "name": "chronicler",
+              "value": 2
+            },
+            {
+              "name": "much",
+              "value": 2
+            },
+            {
+              "name": "sorrow",
+              "value": 2
+            },
+            {
+              "name": "arriving",
+              "value": 2
+            },
+            {
+              "name": "one",
+              "value": 2
+            },
+            {
+              "name": "changing",
+              "value": 1
+            },
+            {
+              "name": "subject",
+              "value": 1
+            },
+            {
+              "name": "theme",
+              "value": 1
+            },
+            {
+              "name": "write",
+              "value": 1
+            },
+            {
+              "name": "heart",
+              "value": 1
+            },
+            {
+              "name": "illnesses",
+              "value": 1
+            },
+            {
+              "name": "solely",
+              "value": 1
+            },
+            {
+              "name": "digestive",
+              "value": 1
+            },
+            {
+              "name": "tract",
+              "value": 1
+            },
+            {
+              "name": "whether",
+              "value": 1
+            },
+            {
+              "name": "lack",
+              "value": 1
+            },
+            {
+              "name": "food",
+              "value": 1
+            },
+            {
+              "name": "poor",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "anger",
+          "value": 11,
+          "children": [
+            {
+              "name": "wait",
+              "value": 2
+            },
+            {
+              "name": "time",
+              "value": 1
+            },
+            {
+              "name": "sent",
+              "value": 1
+            },
+            {
+              "name": "fetch",
+              "value": 1
+            },
+            {
+              "name": "food",
+              "value": 1
+            },
+            {
+              "name": "return",
+              "value": 1
+            },
+            {
+              "name": "ward",
+              "value": 1
+            },
+            {
+              "name": "meagre",
+              "value": 1
+            },
+            {
+              "name": "rations",
+              "value": 1
+            },
+            {
+              "name": "given",
+              "value": 1
+            },
+            {
+              "name": "outburst",
+              "value": 1
+            },
+            {
+              "name": "angry",
+              "value": 1
+            },
+            {
+              "name": "protest",
+              "value": 1
+            },
+            {
+              "name": "blind",
+              "value": 1
+            },
+            {
+              "name": "woman",
+              "value": 1
+            },
+            {
+              "name": "began",
+              "value": 1
+            },
+            {
+              "name": "scream",
+              "value": 1
+            },
+            {
+              "name": "pushed",
+              "value": 1
+            },
+            {
+              "name": "away",
+              "value": 1
+            },
+            {
+              "name": "worthless",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "amusement",
+          "value": 7,
+          "children": [
+            {
+              "name": "said",
+              "value": 1
+            },
+            {
+              "name": "words",
+              "value": 1
+            },
+            {
+              "name": "wards",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "laughed",
+              "value": 1
+            },
+            {
+              "name": "joke",
+              "value": 1
+            },
+            {
+              "name": "much",
+              "value": 1
+            },
+            {
+              "name": "gusto",
+              "value": 1
+            },
+            {
+              "name": "day",
+              "value": 1
+            },
+            {
+              "name": "invented",
+              "value": 1
+            },
+            {
+              "name": "within",
+              "value": 1
+            },
+            {
+              "name": "came",
+              "value": 1
+            },
+            {
+              "name": "cries",
+              "value": 1
+            },
+            {
+              "name": "whinnying",
+              "value": 1
+            },
+            {
+              "name": "guffaws",
+              "value": 1
+            },
+            {
+              "name": "laughter",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 12",
+      "value": 11906,
+      "children": [
+        {
+          "name": "fear",
+          "value": 18,
+          "children": [
+            {
+              "name": "blind",
+              "value": 5
+            },
+            {
+              "name": "shouting",
+              "value": 4
+            },
+            {
+              "name": "one",
+              "value": 3
+            },
+            {
+              "name": "might",
+              "value": 3
+            },
+            {
+              "name": "much",
+              "value": 2
+            },
+            {
+              "name": "terrible",
+              "value": 2
+            },
+            {
+              "name": "women",
+              "value": 2
+            },
+            {
+              "name": "men",
+              "value": 2
+            },
+            {
+              "name": "thought",
+              "value": 2
+            },
+            {
+              "name": "day",
+              "value": 2
+            },
+            {
+              "name": "appear",
+              "value": 2
+            },
+            {
+              "name": "man",
+              "value": 2
+            },
+            {
+              "name": "right",
+              "value": 2
+            },
+            {
+              "name": "terrified",
+              "value": 1
+            },
+            {
+              "name": "rape",
+              "value": 1
+            },
+            {
+              "name": "orgy",
+              "value": 1
+            },
+            {
+              "name": "shame",
+              "value": 1
+            },
+            {
+              "name": "antici",
+              "value": 1
+            },
+            {
+              "name": "pation",
+              "value": 1
+            },
+            {
+              "name": "night",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 15,
+          "children": [
+            {
+              "name": "tears",
+              "value": 3
+            },
+            {
+              "name": "knew",
+              "value": 2
+            },
+            {
+              "name": "abuses",
+              "value": 2
+            },
+            {
+              "name": "would",
+              "value": 2
+            },
+            {
+              "name": "thought",
+              "value": 2
+            },
+            {
+              "name": "realised",
+              "value": 2
+            },
+            {
+              "name": "life",
+              "value": 2
+            },
+            {
+              "name": "blood",
+              "value": 2
+            },
+            {
+              "name": "recognised",
+              "value": 1
+            },
+            {
+              "name": "raped",
+              "value": 1
+            },
+            {
+              "name": "three",
+              "value": 1
+            },
+            {
+              "name": "awaited",
+              "value": 1
+            },
+            {
+              "name": "news",
+              "value": 1
+            },
+            {
+              "name": "suffer",
+              "value": 1
+            },
+            {
+              "name": "secret",
+              "value": 1
+            },
+            {
+              "name": "anything",
+              "value": 1
+            },
+            {
+              "name": "really",
+              "value": 1
+            },
+            {
+              "name": "new",
+              "value": 1
+            },
+            {
+              "name": "certainty",
+              "value": 1
+            },
+            {
+              "name": "world",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "surprise",
+          "value": 15,
+          "children": [
+            {
+              "name": "blind",
+              "value": 7
+            },
+            {
+              "name": "men",
+              "value": 6
+            },
+            {
+              "name": "time",
+              "value": 3
+            },
+            {
+              "name": "face",
+              "value": 3
+            },
+            {
+              "name": "cry",
+              "value": 2
+            },
+            {
+              "name": "perhaps",
+              "value": 2
+            },
+            {
+              "name": "woman",
+              "value": 2
+            },
+            {
+              "name": "startled",
+              "value": 2
+            },
+            {
+              "name": "hood",
+              "value": 2
+            },
+            {
+              "name": "lums",
+              "value": 2
+            },
+            {
+              "name": "gone",
+              "value": 2
+            },
+            {
+              "name": "must",
+              "value": 2
+            },
+            {
+              "name": "eye",
+              "value": 2
+            },
+            {
+              "name": "barely",
+              "value": 1
+            },
+            {
+              "name": "audible",
+              "value": 1
+            },
+            {
+              "name": "might",
+              "value": 1
+            },
+            {
+              "name": "grunting",
+              "value": 1
+            },
+            {
+              "name": "animal",
+              "value": 1
+            },
+            {
+              "name": "ejaculate",
+              "value": 1
+            },
+            {
+              "name": "happening",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "optimism",
+          "value": 8,
+          "children": [
+            {
+              "name": "hope",
+              "value": 3
+            },
+            {
+              "name": "let",
+              "value": 2
+            },
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "time",
+              "value": 1
+            },
+            {
+              "name": "phase",
+              "value": 1
+            },
+            {
+              "name": "mechanism",
+              "value": 1
+            },
+            {
+              "name": "must",
+              "value": 1
+            },
+            {
+              "name": "broken",
+              "value": 1
+            },
+            {
+              "name": "twisted",
+              "value": 1
+            },
+            {
+              "name": "relay",
+              "value": 1
+            },
+            {
+              "name": "loose",
+              "value": 1
+            },
+            {
+              "name": "soldering",
+              "value": 1
+            },
+            {
+              "name": "recording",
+              "value": 1
+            },
+            {
+              "name": "keep",
+              "value": 1
+            },
+            {
+              "name": "going",
+              "value": 1
+            },
+            {
+              "name": "back",
+              "value": 1
+            },
+            {
+              "name": "ever",
+              "value": 1
+            },
+            {
+              "name": "beginning",
+              "value": 1
+            },
+            {
+              "name": "needed",
+              "value": 1
+            },
+            {
+              "name": "well",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "anger",
+          "value": 5,
+          "children": [
+            {
+              "name": "food",
+              "value": 2
+            },
+            {
+              "name": "men",
+              "value": 2
+            },
+            {
+              "name": "door",
+              "value": 2
+            },
+            {
+              "name": "bitches",
+              "value": 2
+            },
+            {
+              "name": "day",
+              "value": 1
+            },
+            {
+              "name": "deprived",
+              "value": 1
+            },
+            {
+              "name": "one",
+              "value": 1
+            },
+            {
+              "name": "die",
+              "value": 1
+            },
+            {
+              "name": "moment",
+              "value": 1
+            },
+            {
+              "name": "steps",
+              "value": 1
+            },
+            {
+              "name": "outside",
+              "value": 1
+            },
+            {
+              "name": "get",
+              "value": 1
+            },
+            {
+              "name": "away",
+              "value": 1
+            },
+            {
+              "name": "oh",
+              "value": 1
+            },
+            {
+              "name": "yes",
+              "value": 1
+            },
+            {
+              "name": "shall",
+              "value": 1
+            },
+            {
+              "name": "collecting",
+              "value": 1
+            },
+            {
+              "name": "eat",
+              "value": 1
+            },
+            {
+              "name": "hoarded",
+              "value": 1
+            },
+            {
+              "name": "bitch",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 13",
+      "value": 8585,
+      "children": [
+        {
+          "name": "realization",
+          "value": 27,
+          "children": [
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "others",
+              "value": 2
+            },
+            {
+              "name": "night",
+              "value": 2
+            },
+            {
+              "name": "time",
+              "value": 2
+            },
+            {
+              "name": "get",
+              "value": 2
+            },
+            {
+              "name": "anyone",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 2
+            },
+            {
+              "name": "wife",
+              "value": 2
+            },
+            {
+              "name": "thought",
+              "value": 2
+            },
+            {
+              "name": "would",
+              "value": 2
+            },
+            {
+              "name": "doors",
+              "value": 2
+            },
+            {
+              "name": "closed",
+              "value": 2
+            },
+            {
+              "name": "exhausted",
+              "value": 1
+            },
+            {
+              "name": "many",
+              "value": 1
+            },
+            {
+              "name": "sat",
+              "value": 1
+            },
+            {
+              "name": "ground",
+              "value": 1
+            },
+            {
+              "name": "weaker",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "simply",
+              "value": 1
+            },
+            {
+              "name": "collapsed",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "sadness",
+          "value": 23,
+          "children": [
+            {
+              "name": "tears",
+              "value": 2
+            },
+            {
+              "name": "thought",
+              "value": 2
+            },
+            {
+              "name": "could",
+              "value": 2
+            },
+            {
+              "name": "kissed",
+              "value": 1
+            },
+            {
+              "name": "husband",
+              "value": 1
+            },
+            {
+              "name": "moment",
+              "value": 1
+            },
+            {
+              "name": "felt",
+              "value": 1
+            },
+            {
+              "name": "something",
+              "value": 1
+            },
+            {
+              "name": "akin",
+              "value": 1
+            },
+            {
+              "name": "pain",
+              "value": 1
+            },
+            {
+              "name": "heart",
+              "value": 1
+            },
+            {
+              "name": "looked",
+              "value": 1
+            },
+            {
+              "name": "eyes",
+              "value": 1
+            },
+            {
+              "name": "filled",
+              "value": 1
+            },
+            {
+              "name": "dependent",
+              "value": 1
+            },
+            {
+              "name": "little",
+              "value": 1
+            },
+            {
+              "name": "children",
+              "value": 1
+            },
+            {
+              "name": "mother",
+              "value": 1
+            },
+            {
+              "name": "prosaically",
+              "value": 1
+            },
+            {
+              "name": "infinite",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "annoyance",
+          "value": 9,
+          "children": [
+            {
+              "name": "would",
+              "value": 2
+            },
+            {
+              "name": "mad",
+              "value": 2
+            },
+            {
+              "name": "able",
+              "value": 1
+            },
+            {
+              "name": "see",
+              "value": 1
+            },
+            {
+              "name": "smell",
+              "value": 1
+            },
+            {
+              "name": "eaten",
+              "value": 1
+            },
+            {
+              "name": "sausage",
+              "value": 1
+            },
+            {
+              "name": "fool",
+              "value": 1
+            },
+            {
+              "name": "like",
+              "value": 1
+            },
+            {
+              "name": "living",
+              "value": 1
+            },
+            {
+              "name": "trail",
+              "value": 1
+            },
+            {
+              "name": "whoever",
+              "value": 1
+            },
+            {
+              "name": "persist",
+              "value": 1
+            },
+            {
+              "name": "talk",
+              "value": 1
+            },
+            {
+              "name": "dogs",
+              "value": 1
+            },
+            {
+              "name": "going",
+              "value": 1
+            },
+            {
+              "name": "around",
+              "value": 1
+            },
+            {
+              "name": "knowing",
+              "value": 1
+            },
+            {
+              "name": "putting",
+              "value": 1
+            },
+            {
+              "name": "feet",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "confusion",
+          "value": 9,
+          "children": [
+            {
+              "name": "longer",
+              "value": 3
+            },
+            {
+              "name": "day",
+              "value": 2
+            },
+            {
+              "name": "might",
+              "value": 2
+            },
+            {
+              "name": "would",
+              "value": 2
+            },
+            {
+              "name": "daybreak",
+              "value": 2
+            },
+            {
+              "name": "sun",
+              "value": 2
+            },
+            {
+              "name": "someone",
+              "value": 1
+            },
+            {
+              "name": "asked",
+              "value": 1
+            },
+            {
+              "name": "night",
+              "value": 1
+            },
+            {
+              "name": "reason",
+              "value": 1
+            },
+            {
+              "name": "incongruous",
+              "value": 1
+            },
+            {
+              "name": "curiosity",
+              "value": 1
+            },
+            {
+              "name": "soon",
+              "value": 1
+            },
+            {
+              "name": "became",
+              "value": 1
+            },
+            {
+              "name": "apparent",
+              "value": 1
+            },
+            {
+              "name": "knows",
+              "value": 1
+            },
+            {
+              "name": "bring",
+              "value": 1
+            },
+            {
+              "name": "us",
+              "value": 1
+            },
+            {
+              "name": "food",
+              "value": 1
+            },
+            {
+              "name": "217",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "excitement",
+          "value": 9,
+          "children": [
+            {
+              "name": "looking",
+              "value": 2
+            },
+            {
+              "name": "found",
+              "value": 2
+            },
+            {
+              "name": "match",
+              "value": 2
+            },
+            {
+              "name": "light",
+              "value": 2
+            },
+            {
+              "name": "excited",
+              "value": 1
+            },
+            {
+              "name": "227",
+              "value": 1
+            },
+            {
+              "name": "jos\u00e9",
+              "value": 1
+            },
+            {
+              "name": "saramago",
+              "value": 1
+            },
+            {
+              "name": "idea",
+              "value": 1
+            },
+            {
+              "name": "began",
+              "value": 1
+            },
+            {
+              "name": "closed",
+              "value": 1
+            },
+            {
+              "name": "door",
+              "value": 1
+            },
+            {
+              "name": "might",
+              "value": 1
+            },
+            {
+              "name": "lead",
+              "value": 1
+            },
+            {
+              "name": "cave",
+              "value": 1
+            },
+            {
+              "name": "treasures",
+              "value": 1
+            },
+            {
+              "name": "open",
+              "value": 1
+            },
+            {
+              "name": "inside",
+              "value": 1
+            },
+            {
+              "name": "devastation",
+              "value": 1
+            },
+            {
+              "name": "blind",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 14",
+      "value": 11437,
+      "children": [
+        {
+          "name": "disgust",
+          "value": 19,
+          "children": [
+            {
+              "name": "women",
+              "value": 2
+            },
+            {
+              "name": "stench",
+              "value": 2
+            },
+            {
+              "name": "excrement",
+              "value": 2
+            },
+            {
+              "name": "could",
+              "value": 1
+            },
+            {
+              "name": "hear",
+              "value": 1
+            },
+            {
+              "name": "shuffling",
+              "value": 1
+            },
+            {
+              "name": "footsteps",
+              "value": 1
+            },
+            {
+              "name": "door",
+              "value": 1
+            },
+            {
+              "name": "opened",
+              "value": 1
+            },
+            {
+              "name": "gaunt",
+              "value": 1
+            },
+            {
+              "name": "old",
+              "value": 1
+            },
+            {
+              "name": "woman",
+              "value": 1
+            },
+            {
+              "name": "appeared",
+              "value": 1
+            },
+            {
+              "name": "nothing",
+              "value": 1
+            },
+            {
+              "name": "skin",
+              "value": 1
+            },
+            {
+              "name": "bone",
+              "value": 1
+            },
+            {
+              "name": "emaciated",
+              "value": 1
+            },
+            {
+              "name": "long",
+              "value": 1
+            },
+            {
+              "name": "white",
+              "value": 1
+            },
+            {
+              "name": "hair",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "realization",
+          "value": 19,
+          "children": [
+            {
+              "name": "come",
+              "value": 2
+            },
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "people",
+              "value": 2
+            },
+            {
+              "name": "seen",
+              "value": 2
+            },
+            {
+              "name": "must",
+              "value": 2
+            },
+            {
+              "name": "chaos",
+              "value": 2
+            },
+            {
+              "name": "cars",
+              "value": 2
+            },
+            {
+              "name": "home",
+              "value": 2
+            },
+            {
+              "name": "back",
+              "value": 2
+            },
+            {
+              "name": "realised",
+              "value": 1
+            },
+            {
+              "name": "front",
+              "value": 1
+            },
+            {
+              "name": "door",
+              "value": 1
+            },
+            {
+              "name": "leading",
+              "value": 1
+            },
+            {
+              "name": "street",
+              "value": 1
+            },
+            {
+              "name": "forced",
+              "value": 1
+            },
+            {
+              "name": "mortice",
+              "value": 1
+            },
+            {
+              "name": "lock",
+              "value": 1
+            },
+            {
+              "name": "clearly",
+              "value": 1
+            },
+            {
+              "name": "twisted",
+              "value": 1
+            },
+            {
+              "name": "long",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "approval",
+          "value": 14,
+          "children": [
+            {
+              "name": "footwear",
+              "value": 1
+            },
+            {
+              "name": "everyone",
+              "value": 1
+            },
+            {
+              "name": "agreed",
+              "value": 1
+            },
+            {
+              "name": "comfort",
+              "value": 1
+            },
+            {
+              "name": "come",
+              "value": 1
+            },
+            {
+              "name": "beauty",
+              "value": 1
+            },
+            {
+              "name": "fancy",
+              "value": 1
+            },
+            {
+              "name": "lacing",
+              "value": 1
+            },
+            {
+              "name": "high",
+              "value": 1
+            },
+            {
+              "name": "heels",
+              "value": 1
+            },
+            {
+              "name": "calf",
+              "value": 1
+            },
+            {
+              "name": "patent",
+              "value": 1
+            },
+            {
+              "name": "leather",
+              "value": 1
+            },
+            {
+              "name": "given",
+              "value": 1
+            },
+            {
+              "name": "state",
+              "value": 1
+            },
+            {
+              "name": "roads",
+              "value": 1
+            },
+            {
+              "name": "refinements",
+              "value": 1
+            },
+            {
+              "name": "would",
+              "value": 1
+            },
+            {
+              "name": "absurd",
+              "value": 1
+            },
+            {
+              "name": "want",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "confusion",
+          "value": 14,
+          "children": [
+            {
+              "name": "rabbits",
+              "value": 3
+            },
+            {
+              "name": "hens",
+              "value": 3
+            },
+            {
+              "name": "everything",
+              "value": 2
+            },
+            {
+              "name": "meat",
+              "value": 2
+            },
+            {
+              "name": "eat",
+              "value": 2
+            },
+            {
+              "name": "asked",
+              "value": 2
+            },
+            {
+              "name": "dog",
+              "value": 2
+            },
+            {
+              "name": "one",
+              "value": 1
+            },
+            {
+              "name": "windows",
+              "value": 1
+            },
+            {
+              "name": "open",
+              "value": 1
+            },
+            {
+              "name": "time",
+              "value": 1
+            },
+            {
+              "name": "would",
+              "value": 1
+            },
+            {
+              "name": "sign",
+              "value": 1
+            },
+            {
+              "name": "almost",
+              "value": 1
+            },
+            {
+              "name": "certainly",
+              "value": 1
+            },
+            {
+              "name": "someone",
+              "value": 1
+            },
+            {
+              "name": "home",
+              "value": 1
+            },
+            {
+              "name": "uncertain",
+              "value": 1
+            },
+            {
+              "name": "kitchen",
+              "value": 1
+            },
+            {
+              "name": "dimly",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "sadness",
+          "value": 14,
+          "children": [
+            {
+              "name": "people",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 2
+            },
+            {
+              "name": "wife",
+              "value": 2
+            },
+            {
+              "name": "still",
+              "value": 2
+            },
+            {
+              "name": "museums",
+              "value": 1
+            },
+            {
+              "name": "truly",
+              "value": 1
+            },
+            {
+              "name": "heart",
+              "value": 1
+            },
+            {
+              "name": "breaking",
+              "value": 1
+            },
+            {
+              "name": "mean",
+              "value": 1
+            },
+            {
+              "name": "paintings",
+              "value": 1
+            },
+            {
+              "name": "sculptures",
+              "value": 1
+            },
+            {
+              "name": "without",
+              "value": 1
+            },
+            {
+              "name": "single",
+              "value": 1
+            },
+            {
+              "name": "visitor",
+              "value": 1
+            },
+            {
+              "name": "standing",
+              "value": 1
+            },
+            {
+              "name": "clutching",
+              "value": 1
+            },
+            {
+              "name": "belly",
+              "value": 1
+            },
+            {
+              "name": "253",
+              "value": 1
+            },
+            {
+              "name": "jos\u00e9",
+              "value": 1
+            },
+            {
+              "name": "saramago",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 15",
+      "value": 9833,
+      "children": [
+        {
+          "name": "approval",
+          "value": 20,
+          "children": [
+            {
+              "name": "idea",
+              "value": 2
+            },
+            {
+              "name": "clean",
+              "value": 2
+            },
+            {
+              "name": "clothes",
+              "value": 2
+            },
+            {
+              "name": "dirty",
+              "value": 2
+            },
+            {
+              "name": "body",
+              "value": 2
+            },
+            {
+              "name": "clear",
+              "value": 1
+            },
+            {
+              "name": "done",
+              "value": 1
+            },
+            {
+              "name": "returned",
+              "value": 1
+            },
+            {
+              "name": "companions",
+              "value": 1
+            },
+            {
+              "name": "said",
+              "value": 1
+            },
+            {
+              "name": "better",
+              "value": 1
+            },
+            {
+              "name": "philosopher",
+              "value": 1
+            },
+            {
+              "name": "old",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "sadness",
+          "value": 20,
+          "children": [
+            {
+              "name": "tears",
+              "value": 2
+            },
+            {
+              "name": "restless",
+              "value": 2
+            },
+            {
+              "name": "glasses",
+              "value": 2
+            },
+            {
+              "name": "dog",
+              "value": 1
+            },
+            {
+              "name": "appeared",
+              "value": 1
+            },
+            {
+              "name": "balcony",
+              "value": 1
+            },
+            {
+              "name": "lick",
+              "value": 1
+            },
+            {
+              "name": "despair",
+              "value": 1
+            },
+            {
+              "name": "inside",
+              "value": 1
+            },
+            {
+              "name": "eyes",
+              "value": 1
+            },
+            {
+              "name": "dry",
+              "value": 1
+            },
+            {
+              "name": "put",
+              "value": 1
+            },
+            {
+              "name": "back",
+              "value": 1
+            },
+            {
+              "name": "table",
+              "value": 1
+            },
+            {
+              "name": "girl",
+              "value": 1
+            },
+            {
+              "name": "dark",
+              "value": 1
+            },
+            {
+              "name": "old",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "eyepatch",
+              "value": 1
+            },
+            {
+              "name": "crying",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "curiosity",
+          "value": 13,
+          "children": [
+            {
+              "name": "brass",
+              "value": 3
+            },
+            {
+              "name": "colour",
+              "value": 1
+            },
+            {
+              "name": "ever",
+              "value": 1
+            },
+            {
+              "name": "seen",
+              "value": 1
+            },
+            {
+              "name": "anything",
+              "value": 1
+            },
+            {
+              "name": "made",
+              "value": 1
+            },
+            {
+              "name": "know",
+              "value": 1
+            },
+            {
+              "name": "remember",
+              "value": 1
+            },
+            {
+              "name": "yel",
+              "value": 1
+            },
+            {
+              "name": "low",
+              "value": 1
+            },
+            {
+              "name": "ah",
+              "value": 1
+            },
+            {
+              "name": "get",
+              "value": 1
+            },
+            {
+              "name": "rain",
+              "value": 1
+            },
+            {
+              "name": "water",
+              "value": 1
+            },
+            {
+              "name": "277",
+              "value": 1
+            },
+            {
+              "name": "jos\u00e9",
+              "value": 1
+            },
+            {
+              "name": "saramago",
+              "value": 1
+            },
+            {
+              "name": "asked",
+              "value": 1
+            },
+            {
+              "name": "husband",
+              "value": 1
+            },
+            {
+              "name": "cistern",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "admiration",
+          "value": 7,
+          "children": [
+            {
+              "name": "entire",
+              "value": 1
+            },
+            {
+              "name": "sky",
+              "value": 1
+            },
+            {
+              "name": "one",
+              "value": 1
+            },
+            {
+              "name": "great",
+              "value": 1
+            },
+            {
+              "name": "cloud",
+              "value": 1
+            },
+            {
+              "name": "rain",
+              "value": 1
+            },
+            {
+              "name": "poured",
+              "value": 1
+            },
+            {
+              "name": "torrents",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "amusement",
+          "value": 7,
+          "children": [
+            {
+              "name": "wash",
+              "value": 2
+            },
+            {
+              "name": "laugh",
+              "value": 2
+            },
+            {
+              "name": "blind",
+              "value": 2
+            },
+            {
+              "name": "cannot",
+              "value": 1
+            },
+            {
+              "name": "anything",
+              "value": 1
+            },
+            {
+              "name": "clothes",
+              "value": 1
+            },
+            {
+              "name": "shoes",
+              "value": 1
+            },
+            {
+              "name": "spick",
+              "value": 1
+            },
+            {
+              "name": "span",
+              "value": 1
+            },
+            {
+              "name": "time",
+              "value": 1
+            },
+            {
+              "name": "women",
+              "value": 1
+            },
+            {
+              "name": "soak",
+              "value": 1
+            },
+            {
+              "name": "hair",
+              "value": 1
+            },
+            {
+              "name": "backs",
+              "value": 1
+            },
+            {
+              "name": "little",
+              "value": 1
+            },
+            {
+              "name": "girls",
+              "value": 1
+            },
+            {
+              "name": "play",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "buff",
+              "value": 1
+            },
+            {
+              "name": "garden",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 16",
+      "value": 5121,
+      "children": [
+        {
+          "name": "sadness",
+          "value": 40,
+          "children": [
+            {
+              "name": "said",
+              "value": 3
+            },
+            {
+              "name": "sad",
+              "value": 2
+            },
+            {
+              "name": "old",
+              "value": 2
+            },
+            {
+              "name": "sat",
+              "value": 1
+            },
+            {
+              "name": "desk",
+              "value": 1
+            },
+            {
+              "name": "placed",
+              "value": 1
+            },
+            {
+              "name": "hands",
+              "value": 1
+            },
+            {
+              "name": "dusty",
+              "value": 1
+            },
+            {
+              "name": "top",
+              "value": 1
+            },
+            {
+              "name": "ironic",
+              "value": 1
+            },
+            {
+              "name": "smile",
+              "value": 1
+            },
+            {
+              "name": "talking",
+              "value": 1
+            },
+            {
+              "name": "someone",
+              "value": 1
+            },
+            {
+              "name": "sitting",
+              "value": 1
+            },
+            {
+              "name": "opposite",
+              "value": 1
+            },
+            {
+              "name": "dear",
+              "value": 1
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "sorry",
+              "value": 1
+            },
+            {
+              "name": "condition",
+              "value": 1
+            },
+            {
+              "name": "known",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "confusion",
+          "value": 20,
+          "children": [
+            {
+              "name": "member",
+              "value": 1
+            },
+            {
+              "name": "got",
+              "value": 1
+            },
+            {
+              "name": "without",
+              "value": 1
+            },
+            {
+              "name": "someone",
+              "value": 1
+            },
+            {
+              "name": "guide",
+              "value": 1
+            },
+            {
+              "name": "us",
+              "value": 1
+            },
+            {
+              "name": "right",
+              "value": 1
+            },
+            {
+              "name": "even",
+              "value": 1
+            },
+            {
+              "name": "know",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "alive",
+              "value": 1
+            },
+            {
+              "name": "unless",
+              "value": 1
+            },
+            {
+              "name": "leave",
+              "value": 1
+            },
+            {
+              "name": "sign",
+              "value": 1
+            },
+            {
+              "name": "anything",
+              "value": 1
+            },
+            {
+              "name": "shall",
+              "value": 1
+            },
+            {
+              "name": "feel",
+              "value": 1
+            },
+            {
+              "name": "abandoned",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "curiosity",
+          "value": 20,
+          "children": [
+            {
+              "name": "ghosts",
+              "value": 2
+            },
+            {
+              "name": "men",
+              "value": 1
+            },
+            {
+              "name": "women",
+              "value": 1
+            },
+            {
+              "name": "appeared",
+              "value": 1
+            },
+            {
+              "name": "fluid",
+              "value": 1
+            },
+            {
+              "name": "could",
+              "value": 1
+            },
+            {
+              "name": "attending",
+              "value": 1
+            },
+            {
+              "name": "bur",
+              "value": 1
+            },
+            {
+              "name": "ial",
+              "value": 1
+            },
+            {
+              "name": "curiosity",
+              "value": 1
+            },
+            {
+              "name": "merely",
+              "value": 1
+            },
+            {
+              "name": "recall",
+              "value": 1
+            },
+            {
+              "name": "buried",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "disapproval",
+          "value": 20,
+          "children": [
+            {
+              "name": "nobody",
+              "value": 2
+            },
+            {
+              "name": "none",
+              "value": 1
+            },
+            {
+              "name": "others",
+              "value": 1
+            },
+            {
+              "name": "said",
+              "value": 1
+            },
+            {
+              "name": "anything",
+              "value": 1
+            },
+            {
+              "name": "congratulated",
+              "value": 1
+            },
+            {
+              "name": "expressed",
+              "value": 1
+            },
+            {
+              "name": "wishes",
+              "value": 1
+            },
+            {
+              "name": "eternal",
+              "value": 1
+            },
+            {
+              "name": "happiness",
+              "value": 1
+            },
+            {
+              "name": "tell",
+              "value": 1
+            },
+            {
+              "name": "truth",
+              "value": 1
+            },
+            {
+              "name": "times",
+              "value": 1
+            },
+            {
+              "name": "festivities",
+              "value": 1
+            },
+            {
+              "name": "hopes",
+              "value": 1
+            },
+            {
+              "name": "decisions",
+              "value": 1
+            },
+            {
+              "name": "serious",
+              "value": 1
+            },
+            {
+              "name": "seem",
+              "value": 1
+            },
+            {
+              "name": "even",
+              "value": 1
+            },
+            {
+              "name": "surprising",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 17",
+      "value": 7400,
+      "children": [
+        {
+          "name": "fear",
+          "value": 19,
+          "children": [
+            {
+              "name": "dog",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 2
+            },
+            {
+              "name": "wife",
+              "value": 2
+            },
+            {
+              "name": "notice",
+              "value": 2
+            },
+            {
+              "name": "fear",
+              "value": 2
+            },
+            {
+              "name": "opened",
+              "value": 2
+            },
+            {
+              "name": "tears",
+              "value": 1
+            },
+            {
+              "name": "moves",
+              "value": 1
+            },
+            {
+              "name": "closer",
+              "value": 1
+            },
+            {
+              "name": "death",
+              "value": 1
+            },
+            {
+              "name": "fright",
+              "value": 1
+            },
+            {
+              "name": "ens",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "takes",
+              "value": 1
+            },
+            {
+              "name": "two",
+              "value": 1
+            },
+            {
+              "name": "steps",
+              "value": 1
+            },
+            {
+              "name": "forward",
+              "value": 1
+            },
+            {
+              "name": "suddenly",
+              "value": 1
+            },
+            {
+              "name": "fur",
+              "value": 1
+            },
+            {
+              "name": "stands",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "optimism",
+          "value": 14,
+          "children": [
+            {
+              "name": "see",
+              "value": 2
+            },
+            {
+              "name": "much",
+              "value": 2
+            },
+            {
+              "name": "longer",
+              "value": 2
+            },
+            {
+              "name": "like",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "feared",
+              "value": 1
+            },
+            {
+              "name": "worst",
+              "value": 1
+            },
+            {
+              "name": "said",
+              "value": 1
+            },
+            {
+              "name": "husband",
+              "value": 1
+            },
+            {
+              "name": "arrived",
+              "value": 1
+            },
+            {
+              "name": "late",
+              "value": 1
+            },
+            {
+              "name": "crumb",
+              "value": 1
+            },
+            {
+              "name": "left",
+              "value": 1
+            },
+            {
+              "name": "say",
+              "value": 1
+            },
+            {
+              "name": "anybody",
+              "value": 1
+            },
+            {
+              "name": "going",
+              "value": 1
+            },
+            {
+              "name": "coming",
+              "value": 1
+            },
+            {
+              "name": "perhaps",
+              "value": 1
+            },
+            {
+              "name": "yet",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "annoyance",
+          "value": 10,
+          "children": [
+            {
+              "name": "annoyed",
+              "value": 1
+            },
+            {
+              "name": "advice",
+              "value": 1
+            },
+            {
+              "name": "man",
+              "value": 1
+            },
+            {
+              "name": "great",
+              "value": 1
+            },
+            {
+              "name": "distress",
+              "value": 1
+            },
+            {
+              "name": "wife",
+              "value": 1
+            },
+            {
+              "name": "could",
+              "value": 1
+            },
+            {
+              "name": "say",
+              "value": 1
+            },
+            {
+              "name": "nothing",
+              "value": 1
+            },
+            {
+              "name": "sleep",
+              "value": 1
+            },
+            {
+              "name": "irritated",
+              "value": 1
+            },
+            {
+              "name": "utter",
+              "value": 1
+            },
+            {
+              "name": "harsh",
+              "value": 1
+            },
+            {
+              "name": "reply",
+              "value": 1
+            },
+            {
+              "name": "opened",
+              "value": 1
+            },
+            {
+              "name": "eyes",
+              "value": 1
+            },
+            {
+              "name": "saw",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "approval",
+          "value": 10,
+          "children": [
+            {
+              "name": "true",
+              "value": 2
+            },
+            {
+              "name": "doctor",
+              "value": 1
+            },
+            {
+              "name": "said",
+              "value": 1
+            },
+            {
+              "name": "right",
+              "value": 1
+            },
+            {
+              "name": "seem",
+              "value": 1
+            },
+            {
+              "name": "normal",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "caring",
+          "value": 10,
+          "children": [
+            {
+              "name": "calm",
+              "value": 1
+            },
+            {
+              "name": "tell",
+              "value": 1
+            },
+            {
+              "name": "needed",
+              "value": 1
+            },
+            {
+              "name": "lie",
+              "value": 1
+            },
+            {
+              "name": "close",
+              "value": 1
+            },
+            {
+              "name": "eyes",
+              "value": 1
+            },
+            {
+              "name": "breathe",
+              "value": 1
+            },
+            {
+              "name": "steadily",
+              "value": 1
+            },
+            {
+              "name": "could",
+              "value": 1
+            },
+            {
+              "name": "rest",
+              "value": 1
+            },
+            {
+              "name": "minutes",
+              "value": 1
+            },
+            {
+              "name": "sure",
+              "value": 1
+            },
+            {
+              "name": "would",
+              "value": 1
+            },
+            {
+              "name": "regain",
+              "value": 1
+            },
+            {
+              "name": "strength",
+              "value": 1
+            },
+            {
+              "name": "plastic",
+              "value": 1
+            },
+            {
+              "name": "bags",
+              "value": 1
+            },
+            {
+              "name": "still",
+              "value": 1
+            },
+            {
+              "name": "empty",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
